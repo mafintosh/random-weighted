@@ -23,7 +23,7 @@ console.log(random(weights)) // random number between 0-2 (there are 3 weights)
 Produce a random number between `0` and `weights.length - 1`.
 
 The random number will be picked at the probability of defined be the weights array.
-All probabilities in the weights array should add up to 1.s
+All probabilities in the weights array should add up to 1.
 
 ## License
 
